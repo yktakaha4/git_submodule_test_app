@@ -1,3 +1,0 @@
-[submodule "submodule/test_app_submodule"]
-	path = submodule/test_app_submodule
-	url = git@github.com:yktakaha4/test_app_submodule.git
